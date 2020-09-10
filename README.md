@@ -1,0 +1,2 @@
+# TheAcademy
+Static Website
